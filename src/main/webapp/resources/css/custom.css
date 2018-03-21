@@ -1,0 +1,30 @@
+#titleSectionSerivces{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.task-list li:hover {
+  background: #f9f9f9;
+}
+
+ul#sortable{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.pull-right {
+    margin-right: 10px;
+}
+
+button.btn-xs:focus {
+    outline-width: 0;
+}
+
+ul.task-list li button{
+    display: none;
+}  
+
+div.tooltip-inner {
+    max-width: 350px;
+}
+
